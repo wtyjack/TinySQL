@@ -1,2 +1,2 @@
 # TinySQL
-A tiny rational SQL database
+A tiny relational SQL database
